@@ -83,7 +83,7 @@ baseUploadUrl: d://qiniu_temp/
 #QQ登录授权配置,QQ互联中提供的 appid 和 appkey  xiongsihao.com
 qq:
   oauth:
-    http: http://lw.rjl8.cn
+    backUrl: lw.rjl8.cn/qq/callback
   appid: 101951657
   appkey: 1a0c84bf72d3911b82ac91db683ea9b3
 
