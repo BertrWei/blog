@@ -16,5 +16,3 @@ logging:
     com.xsh: debug #指定对应目录的日志级别，在此目录内的日志级别为debug
 
   file: log/blog-dev.log #设置日志存放目录
-server:
-  port: 8888
